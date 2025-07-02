@@ -47,8 +47,6 @@ A simple yet engaging Flappy Bird-style game built using the Flame game engine a
 # 📈 High Score
 The highest score is stored locally on the device using SharedPreferences, and it's displayed in the Game Over screen.
 
-<<<<<<< HEAD
+
 ****
-=======
-****
->>>>>>> 9ffcbc7cb711076684997b19b6634e65acff7f88
+
